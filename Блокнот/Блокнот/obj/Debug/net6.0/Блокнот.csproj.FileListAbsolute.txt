@@ -1,0 +1,15 @@
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\bin\Debug\net6.0\Блокнот.exe
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\bin\Debug\net6.0\Блокнот.deps.json
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\bin\Debug\net6.0\Блокнот.runtimeconfig.json
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\bin\Debug\net6.0\Блокнот.dll
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\bin\Debug\net6.0\Блокнот.pdb
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.dll
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\refint\Блокнот.dll
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.pdb
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\Блокнот.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\Блокнот\Блокнот\obj\Debug\net6.0\ref\Блокнот.dll
